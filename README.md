@@ -1,4 +1,4 @@
 ZΛDΛTΛ wiki
 ===========
 
-[Wiki is here:](https://github.com/nivertech/wiki/wiki)
+[Link to Wiki](https://github.com/nivertech/wiki/wiki)
